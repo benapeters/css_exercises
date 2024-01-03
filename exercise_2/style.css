@@ -1,0 +1,16 @@
+p {
+    background-color: #ea8c8f;
+    font-family: Verdana, sans-serif;
+}
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+#number_3 {
+    font-size: 24px;
+}
+#number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
